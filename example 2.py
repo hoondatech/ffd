@@ -1,0 +1,9 @@
+x=["ahmed","hoo"]
+t=["ahmed","hoo",2]
+x.extend(t)
+x.insert(3,"hwllod")
+print(x)
+dic={"name":"amed"}
+f=dic.copy()
+print(f)
+t.min()
