@@ -1,9 +1,9 @@
 x=["ahmed","hoo"]
-t=["ahmed","hoo",2]
-x.extend(t)
-x.insert(3,"hwllod")
-print(x)
-dic={"name":"amed"}
-f=dic.copy()
-print(f)
-t.min()
+xx=["ahmed","hoo"]
+t=("ahmed","hoo",2)
+tt=("ahmed","hoo",2)
+dic={"name":"hoonda"}
+s="slk \t lkm"
+dic["name"]="hoonda"
+print(dic)
+print(x.index("hoo"))
